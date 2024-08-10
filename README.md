@@ -1,2 +1,2 @@
 # Myntra-Functional-Clone
-This is Myntra Clone for Front End.
+This is Myntra Functional Clone for Front End, using Html+Css+JavaScript.
